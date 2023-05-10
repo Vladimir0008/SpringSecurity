@@ -1,0 +1,10 @@
+2023-05-10 22:50:01.868 INFO  [main] c.e.Hw29SpringSecurityApplication - Starting Hw29SpringSecurityApplication using Java 18.0.2.1 with PID 19960 (D:\java\Hillel\HW_28_29\HW29_SpringSecurity\target\classes started by Admin in D:\java\Hillel\HW_28_29\HW29_SpringSecurity)
+2023-05-10 22:50:01.870 INFO  [main] c.e.Hw29SpringSecurityApplication - No active profile set, falling back to 1 default profile: "default"
+2023-05-10 22:51:00.063 INFO  [main] c.e.Hw29SpringSecurityApplication - Starting Hw29SpringSecurityApplication using Java 18.0.2.1 with PID 18844 (D:\java\Hillel\HW_28_29\HW29_SpringSecurity\target\classes started by Admin in D:\java\Hillel\HW_28_29\HW29_SpringSecurity)
+2023-05-10 22:51:00.067 INFO  [main] c.e.Hw29SpringSecurityApplication - No active profile set, falling back to 1 default profile: "default"
+2023-05-10 22:51:18.530 INFO  [main] c.e.Hw29SpringSecurityApplication - Starting Hw29SpringSecurityApplication using Java 18.0.2.1 with PID 10488 (D:\java\Hillel\HW_28_29\HW29_SpringSecurity\target\classes started by Admin in D:\java\Hillel\HW_28_29\HW29_SpringSecurity)
+2023-05-10 22:51:18.534 INFO  [main] c.e.Hw29SpringSecurityApplication - No active profile set, falling back to 1 default profile: "default"
+2023-05-10 22:51:22.617 INFO  [main] c.e.Hw29SpringSecurityApplication - Started Hw29SpringSecurityApplication in 4.648 seconds (process running for 5.487)
+2023-05-10 22:51:34.459 INFO  [http-nio-8080-exec-1] c.example.controller.PingController - OK
+2023-05-10 22:51:35.220 INFO  [http-nio-8080-exec-3] c.example.controller.PingController - OK
+2023-05-10 22:51:35.413 INFO  [http-nio-8080-exec-4] c.example.controller.PingController - OK
